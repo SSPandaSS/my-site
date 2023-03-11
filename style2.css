@@ -246,11 +246,6 @@ em {
   border:  2px solid #ffffff;
 }
 
-.light-theme .theme-button: focus,
-.light-theme .theme-button: hover {
-  color: #ffffff;
-  background-color: #ffffff;
-}
 
 .light-theme .page-footer {
   background-color: #08e2ff;
